@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <NIGGER.COM>landig page</NIGGER.COM>
+  <title>NIGGER.BLACK.PORN.COM</title>
 </head>
 <body>
 
