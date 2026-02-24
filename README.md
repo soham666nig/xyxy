@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>landig page</title>
+  <ADMIN COMMAND PANNEL>landig page</ADMIN COMMAND PANNEL>
 </head>
 <body>
 
-<div class="wrepper">
+<div class="wrapper">
      <dir class="nav">
          <ul>
-             <li>EAQ</li>
-             <li>EAQ</li>
-             <li>EAQ</li>
-             <li>EAQ></li>
+             <li>NIGGERS</li>
+             <li>FORS SALE</li>
+             <li>ONLY ON</li>
+             <li>BLACK NIGGA ASS FRIDAY</li>
          </ul>
      </dir>
 </div>
