@@ -1,20 +1,11 @@
 <!DOCTYPE html>
 <html>
+<title>WWW.EXAMPLE.COM</title>
 <head>
-  <title> NIGGER.BLACK.PORN.COM </title>
+  <div>ONLY VALID TILL 24TH OF MARCH</div>
 </head>
 <body>
-
-<div class="wrapper">
-     <dir class="nav">
-         <ul>
-             <li>NIGGERS</li>
-             <li>FORS SALE</li>
-             <li>ONLY ON</li>
-             <li>BLACK NIGGA ASS FRIDAY</li>
-         </ul>
-     </dir>
-</div>
+  <img src="LORD.jpg"/>
+  <div>HELL YEHHHHH</div>
 </body>
-</html>
-
+<html/>
