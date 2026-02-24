@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>NIGGER.BLACK.PORN.COM</title>
+  <title> NIGGER.BLACK.PORN.COM </title>
 </head>
 <body>
 
