@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <ADMIN COMMAND PANNEL>landig page</ADMIN COMMAND PANNEL>
+  <NIGGER.COM>landig page</FUCK.YEAH>
 </head>
 <body>
 
