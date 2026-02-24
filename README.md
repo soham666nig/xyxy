@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <NIGGER.COM>landig page</FUCK.YEAH>
+  <NIGGER.COM>landig page</NIGGER.COM>
 </head>
 <body>
 
